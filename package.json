@@ -1,0 +1,18 @@
+{
+  "name": "php-date-cheat-sheet",
+  "version": "1.0.0",
+  "description": "PHP date formatting cheat sheet",
+  "main": "index.js",
+  "scripts": {
+    "postcss": "postcss src/style.pcss -o dist/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Gardner <holler@jasongardner.co>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^6.0.23",
+    "postcss-preset-env": "^5.2.1",
+    "stylelint": "^9.3.0"
+  }
+}
